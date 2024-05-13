@@ -1,2 +1,6 @@
-# loja-simp
-Trabalho de DW1
+# loja do simp
+Trabalho de IW2
+
+Linguagem SQL
+
+SQL para CRUD
